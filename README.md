@@ -6,20 +6,20 @@ Hello there! 👋 I'm Farid Fehresti, a frontend web application developer haili
 
 - 🔭 I'm currently working at MadTalk, where I've been honing my skills for the past 6 months.
 - 💻 My primary tech stack includes:
-  - JavaScript (Advanced) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript.png)
-  - TypeScript ![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png)
-  - Angular ![Angular Logo](https://img.icons8.com/color/48/000000/angularjs.png)
-  - Next.js ![Next.js Logo](https://img.icons8.com/color/48/000000/next.png)
-  - React ![React Logo](https://img.icons8.com/color/48/000000/react-native.png)
-  - HTML ![HTML Logo](https://img.icons8.com/color/48/000000/html-5.png)
-  - CSS (Less, SCSS, CSS) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png)
-  - Ant Design ![Ant Design Logo](https://img.icons8.com/color/48/000000/ant-design.png)
-  - GitHub ![GitHub Logo](https://img.icons8.com/fluent/48/000000/github.png)
-  - npm ![npm Logo](https://img.icons8.com/color/48/000000/npm.png)
-  - Node.js ![Node.js Logo](https://img.icons8.com/color/48/000000/nodejs.png)
-  - RxJS ![RxJS Logo](https://rxjs.dev/assets/images/logos/Rx_Logo_S.png)
-  - Ngrx ![Ngrx Logo](https://ngrx.io/generated/images/logo.png)
-  - Linux (Ubuntu, Arch, Kali) ![Linux Logo](https://img.icons8.com/color/48/000000/linux.png)
+  - JavaScript (Advanced)
+  - TypeScript
+  - Angular
+  - Next.js
+  - React
+  - HTML
+  - CSS (Less, SCSS, CSS)
+  - Ant Design
+  - GitHub
+  - npm
+  - Node.js
+  - RxJS
+  - Ngrx
+  - Linux (Ubuntu, Arch, Kali)
 
 ## Journey into Coding
 
