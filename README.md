@@ -35,6 +35,6 @@ I'm a firm believer in writing clean, maintainable code. I adhere to best practi
 
 ## Connect with Me
 
-If you'd like to collaborate, discuss coding, or just chat about music, feel free to reach out! You can connect with me here on GitHub or find me on [LinkedIn](https://www.linkedin.com/in/farid-fehresti-8097a1301/).
+If you'd like to collaborate, discuss coding, or just chat about music, feel free to reach out! You can connect with me here on GitHub or find me on [LinkedIn](www.linkedin.com/in/farid-fehresti-8097a1301).
 
 Thanks for stopping by! 🚀
