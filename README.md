@@ -1,40 +1,27 @@
-# Welcome to Farid Fehresti's GitHub Page!
+Farid Fehresti
 
-Hello there! 👋 I'm Farid Fehresti, a frontend web application developer hailing from the beautiful city of Zanjan, Iran. At 24 years young, I've embarked on an exciting journey into the world of web development armed with a passion for coding and a knack for learning.
+Full-stack JavaScript engineer focused on building clean, scalable web systems.
 
-## About Me
+I work across the stack — crafting modern frontends and designing reliable backends — with a strong emphasis on architecture, type safety, and long-term maintainability.
 
-- 🔭 I'm currently working at MadTalk, where I've been honing my skills for the past 6 months.
-- 💻 My primary tech stack includes:
-  - JavaScript (Advanced)
-  - TypeScript
-  - Angular
-  - Next.js
-  - React
-  - HTML
-  - CSS (Less, SCSS, CSS)
-  - Ant Design
-  - GitHub
-  - npm
-  - Node.js
-  - RxJS
-  - Ngrx
-  - Linux (Ubuntu, Arch, Kali)
+Stack
 
-## Journey into Coding
+TypeScript · JavaScript
+React · Next.js · Angular
+Node.js · NestJS
+Tailwind · MUI · Radix UI
 
-My journey into the world of programming started with a mathematics diploma and a determination to learn. Despite never stepping foot into a university, I've embraced the self-taught coder life and have continuously expanded my knowledge and skills.
+Principles
 
-## Music and More
+Clean, predictable architecture
 
-When I'm not crafting elegant code, you can find me strumming away on my electric guitar. Just like coding, I taught myself how to play, finding joy and creativity in both endeavors.
+Type-safe, readable code
 
-## Coding Philosophy
+Performance & scalability first
 
-I'm a firm believer in writing clean, maintainable code. I adhere to best practices and pay close attention to naming conventions like camelCase and kebab-case. It's not just about making things work; it's about making them work efficiently and elegantly.
+Pragmatic engineering over hype
 
-## Connect with Me
+Outside of software, I play electric guitar and enjoy learning complex systems.
 
-If you'd like to collaborate, discuss coding, or just chat about music, feel free to reach out! You can connect with me here on GitHub or find me on [LinkedIn](www.linkedin.com/in/farid-fehresti-8097a1301).
-
-Thanks for stopping by! 🚀
+📍 Zanjan, Iran
+🔗 LinkedIn
