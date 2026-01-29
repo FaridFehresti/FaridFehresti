@@ -55,7 +55,7 @@ Long-term maintainability over trends
 
 <div align="center">
 GitHub Activity
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=faridfehresti&show_icons=true&hide_title=true&theme=transparent" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" /> </div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=FaridFehresti&show_icons=true&hide_title=true&theme=transparent" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridFehresti&layout=compact&theme=transparent" /> </div>
 <div align="center">
 
 🔗 LinkedIn
