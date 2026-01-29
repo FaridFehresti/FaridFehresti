@@ -1,27 +1,63 @@
+<div align="center">
 Farid Fehresti
 
-Full-stack JavaScript engineer focused on building clean, scalable web systems.
+Full-Stack JavaScript Engineer
+Building clean, scalable web systems
 
-I work across the stack — crafting modern frontends and designing reliable backends — with a strong emphasis on architecture, type safety, and long-term maintainability.
+📍 Tehran, Iran
 
-Stack
+</div>
+<div align="center">
 
-TypeScript · JavaScript
-React · Next.js · Angular
-Node.js · NestJS
-Tailwind · MUI · Radix UI
 
-Principles
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+About
+
+I’m a full-stack engineer working across modern frontends and robust backends.
+I focus on architecture, type safety, and maintainable systems rather than short-term hacks.
+
+I enjoy working close to the metal of the web — from UI composition to API design and real-time services.
+
+Tooling & UI
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+Engineering Values
 
 Clean, predictable architecture
 
-Type-safe, readable code
+Strong typing & explicit boundaries
 
-Performance & scalability first
+Performance-aware design
 
-Pragmatic engineering over hype
+Long-term maintainability over trends
 
-Outside of software, I play electric guitar and enjoy learning complex systems.
+<div align="center">
+GitHub Activity
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=faridfehresti&show_icons=true&hide_title=true&theme=transparent" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" /> </div>
+<div align="center">
 
-📍 Zanjan, Iran
 🔗 LinkedIn
+
+</div>
