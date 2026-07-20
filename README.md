@@ -32,14 +32,6 @@ With over 5 years of experience engineering high-throughput, data-heavy interfac
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaridFehresti&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D12&title_color=FF2233&text_color=9A9AA6&icon_color=FF4D5E" alt="Farid's GitHub Stats" />
-</div>
-
-<br />
-
 ### 📡 Network & Connect
 
 - ✉️ **Email**: [faridfehresti1234@gmail.com](mailto:faridfehresti1234@gmail.com)
