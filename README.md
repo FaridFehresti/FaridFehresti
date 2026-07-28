@@ -36,4 +36,4 @@ With over 5 years of experience engineering high-throughput, data-heavy interfac
 
 - ✉️ **Email**: [faridfehresti1234@gmail.com](mailto:faridfehresti1234@gmail.com)
 - 🐦 **Twitter/X**: [@farid_fehresti](https://twitter.com/farid_fehresti)
-- 💼 **LinkedIn**: *(Add your LinkedIn URL here)*
+
